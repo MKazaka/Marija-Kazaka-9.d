@@ -1,0 +1,50 @@
+#include <iostream>
+using namespace std;
+int main() {
+	///*int age;
+	//cin >> age;
+	//if (age >> 0 && age <= 100) { cout << "ok"; }
+	//else cout << "wrong";
+	//string name;
+	//cin >> name;
+	//if (name == "marija" || name == "Marija") { cout << "ok"; }
+	//else cout << "wrong";*/
+
+	/*int catage, dogage;
+	cin >> catage >> dogage;
+	if (catage > 0 && catage < 20) { cout << "cat"; }
+	else cout << "cat is too old";
+	if (dogage > 0 && dogage < 20) { cout << "dog"; }
+	else cout << "dog is too old";*/
+
+	///*int mark, age, height;
+	//cin >> mark >> age >> height;
+	//if (mark > 0 && mark < 10) { cout << "ok "; }
+	//else cout << "Student is too smart";
+	//if (age > 14 && age < 18) { cout << "labi "; }
+	//else cout << "Student is too old ";
+	//if (height > 150 && height < 189) { cout << "normal "; }
+	//else cout << "Student is too tall ";*/
+
+	/*int age = 15;
+	string parole = "bbb32", jo9;
+	cin >> jo9;
+	if (jo9 == parole) { cout << age; }
+	else cout << "access denied";*/
+
+	int age = 15;
+	string password;
+	cout << "Enter your age" << endl;
+	cin >> age;
+	if (age >= 0 && age <= 32) { cout << "You are normal persone"; }
+	else cout << "You are too old";
+	cout << "Enter password" << endl;
+	cin >> password;
+	if (password == "M.Kazaka" || password == "m.Kazaka") { count << age << endl << "ok" << endl; }
+	else cout << 
+
+
+
+
+}
+
